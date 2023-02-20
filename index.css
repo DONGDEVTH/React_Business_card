@@ -1,0 +1,132 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  font-family: Inter, sans-serif;
+  background-color:#23252C ;
+  background-image: url(./images/photo.png);
+  background-repeat: no-repeat;
+  background-position-x: center;
+
+}
+.info--button1 {
+  padding: 15px 7px 167px 328px;
+  
+}
+
+.info--button2 {
+  padding: 3px 5px 167px 8px;
+  
+}
+info {
+  position: absolute;
+  left: 186px;
+  top: 382px;
+  bottom: 460.19px;
+  right: 185.94px;
+}
+.info--header {
+  margin: 0;
+  font-family: Inter, sans-serif;
+  color:#ffff ;
+  font-weight: 700;
+  font-size: 30px;
+  text-align: center;
+}
+
+.info--name {
+  margin: 0;
+  font-family: Inter, sans-serif;
+  color:#F3BF99 ;
+  text-align: center;
+}
+
+.info--web {
+  margin: 0;
+  font-family: Inter, sans-serif;
+  color:#F5F5F5 ;
+  text-align: center;
+}
+
+.about--header {
+  margin: 0;
+  font-family: Inter, sans-serif;
+  color:#DCDCDC ;
+  font-weight: 700;
+  font-size: 18px;
+  padding-left:  330px;
+
+}
+
+.about--text {
+  margin: 0;
+  font-family: Inter, sans-serif;
+  color:#DCDCDC ;
+  font-weight: 300;
+  font-size: 12px;
+  text-align: left;
+  padding-left:  330px;
+  width: 677px; 
+  text-indent: 10px;
+}
+about {
+  position: absolute;
+  left: 152px;
+  top: 535px;
+  bottom: 132px;
+  right: 151px;
+  table-layout: auto;
+}
+
+.interests--header {
+  margin: 0;
+  font-family: Inter, sans-serif;
+  color:#DCDCDC ;
+  font-weight: 700;
+  font-size: 18px;
+  padding-left:  330px;
+
+}
+
+.interests--text {
+  margin: 0;
+  font-family: Inter, sans-serif;
+  color:#DCDCDC ;
+  font-weight: 300;
+  font-size: 12px;
+  text-align: left;
+  padding-left:  330px;
+  width: 677px; 
+  text-indent: 10px;
+}
+interests {
+  position: absolute;
+  left: 152px;
+  top: 640px;
+  bottom: 132px;
+  right: 151px;
+  table-layout: auto;
+}
+
+Footer {
+  position: absolute;
+
+}
+
+.footer--icon1 {
+  padding: 750px 0px 0px 549px;
+  
+}
+.footer--icon2 {
+  padding: 750px 0px 0px 30px;
+  
+}
+.footer--icon3 {
+  padding: 750px 0px 0px 30px;
+  
+}
+.footer--icon4 {
+  padding: 750px 0px 0px 30px;
+  
+}
